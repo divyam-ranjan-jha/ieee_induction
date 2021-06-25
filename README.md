@@ -1,2 +1,2 @@
 # ieee_induction
-my first ever website.
+my first ever webpage.
